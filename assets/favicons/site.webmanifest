@@ -1,6 +1,7 @@
 {
-    "name": "demo-app",
-    "short_name": "demo-app",
+    "name": "Demo-PWA",
+    "short_name": "Demo-PWA",
+    "start_url": "/?utm_source=a2hs",
     "icons": [
         {
             "src": "/assets/favicons/android-chrome-192x192.png",
