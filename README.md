@@ -1,2 +1,2 @@
 # serviceWorkerApp
-offline application try on angular
+Service Worker PWA Try
